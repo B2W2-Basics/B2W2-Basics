@@ -1,0 +1,13 @@
+# Working files/directories
+*ROM.nds
+*ROM/
+
+# Unpublished debugging
+test*/
+
+# Python
+venv/
+__pycache__/
+
+# MacOS
+.DS_Store
